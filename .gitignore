@@ -99,6 +99,8 @@ StyleCopReport.xml
 *.scc
 *.pdf
 !KamalievaRF.pdf
+/bin
+/obj
 KamalievaRF
 
 # Chutzpah Test files
